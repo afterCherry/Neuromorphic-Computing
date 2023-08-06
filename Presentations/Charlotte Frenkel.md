@@ -246,3 +246,37 @@ user customization and even full chip repurposing at the edge
 - potentiate synapse 增强突触
 - anticosal 反壁
 - cinematitis 电影般的
+
+# RP
+Title: Exploring the Synergies between Neuroscience and AI for Neuromorphic Edge Intelligence <br>
+
+1. Introduction <br>
+Neuromorphic edge intelligence represents a cutting-edge research field that aims to merge insights from artificial neural networks and biological neural networks to create more efficient and bio-plausible computing systems. This research proposal outlines our plan to investigate the synergies between neuroscience and AI, focusing on understanding brain computational primitives, developing scalable learning algorithms, and designing hardware-efficient neuromorphic devices. The ultimate goal is to advance the field of neuromorphic edge intelligence and pave the way for sustainable and impactful solutions. <br>
+
+2. Objectives <br>
+
+a. Exploiting Bi-Directional Interaction: The first objective is to leverage bi-directional interaction between neuroscience and AI. We will explore the bottom-up approach to identify brain computational primitives and scale them for AI-oriented workloads. Additionally, we will investigate the up-bottom direction to develop algorithms that are more amenable to hardware implementation. <br>
+
+b. Achieving Hardware Efficiency: The second objective is to enhance hardware efficiency through bio-plausible mechanisms. We will focus on developing learning algorithms that align with neuroscience principles and utilize spiking neural networks. The aim is to reduce memory and computational costs while achieving high performance. <br>
+
+c. Investigating Neuromorphic Edge Solutions: The third objective is to explore on-chip learning for inference devices, such as smartwatches, that require continuous adaptation over time. We will investigate temporal data processing for tasks like keyword spotting and navigation. Our goal is to design hardware-efficient solutions that are robust and flexible for real-world applications. <br>
+
+3. Methodology <br>
+
+a. Biologically-Inspired Learning Algorithms: We will start by investigating spike-time-dependent plasticity (STDP) and spike-dependent synaptic plasticity (SDSP) as potential starting points for learning algorithms. We will compare the efficiency and scalability of these algorithms in terms of memory requirements and computational complexity. <br>
+
+b. Engineering Approaches: For AI-driven solutions, we will explore feedback alignment and direct feedback alignment algorithms. We will assess their hardware efficiency and scalability to identify the most suitable approach for neuromorphic edge devices. <br>
+
+c. Chip Implementation: We will design and implement a neuromorphic chip that incorporates the selected learning algorithms. The chip will perform on-chip learning tasks, such as delayed supervision navigation and keyword spotting. The goal is to achieve hardware efficiency and demonstrate the feasibility of neuromorphic edge intelligence. <br>
+
+4. Expected Outcomes <br>
+
+a. Insights into Synergies: This research will provide valuable insights into the synergies between neuroscience and AI, shedding light on how these disciplines can benefit each other to create efficient and bio-plausible computing systems. <br>
+
+b. Hardware-Efficient Learning Algorithms: We expect to develop learning algorithms that are hardware-efficient and suitable for on-chip implementation. These algorithms will serve as a basis for enhancing the performance of neuromorphic edge devices. <br>
+
+c. Neuromorphic Chip Demonstration: The successful implementation and demonstration of a neuromorphic chip performing on-chip learning tasks will highlight the feasibility and potential of neuromorphic edge intelligence. <br>
+
+5. Conclusion
+
+By investigating the synergies between neuroscience and AI for neuromorphic edge intelligence, this research proposal aims to contribute to the advancement of bio-plausible computing solutions. The proposed methodology will lead to hardware-efficient learning algorithms and demonstrate the potential of on-chip learning for edge devices. Ultimately, this research will pave the way for innovative and sustainable neuromorphic edge intelligence solutions with wide-ranging applications in various fields.
